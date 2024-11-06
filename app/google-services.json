@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206648982053",
+    "project_id": "baatkaro-a84fc",
+    "storage_bucket": "baatkaro-a84fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206648982053:android:d6a95e515551e9d0529dcc",
+        "android_client_info": {
+          "package_name": "com.lucky.baatkaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKWjjxvxqnQFE5jUqQuih3K3cZTABS-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
